@@ -23,7 +23,7 @@
 <ul>
 <li><em>setx ANDROID_HOME "C:\Users\USER\AppData\Local\Android"</em></li>
 <li><em>ANDROID_SDK_ROOT "C:\Users\USER\AppData\Local\Android\Sdk"</em></li>
-<li><em>path "%path%;"C:\C:\Users\USER\AppData\Local\Android\Sdk;C:\C:\Users\USER\AppData\Local\Android\Sdk\bin;C:\flutter\bin"</em></li>
+<li><em>path "%path%;"C:\Users\USER\AppData\Local\Android\Sdk;C:\Users\USER\AppData\Local\Android\Sdk\bin;C:\flutter\bin"</em></li>
 </ul>
 </li>
 <li>Download Android Sdk - As you may already know Flutter needs Android SDK to work , so we need to download system images, platform tools, build tools, platforms, and emulator, by running the following commands:
